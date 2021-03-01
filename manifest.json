@@ -1,0 +1,17 @@
+{
+  "name": "K.O.L.M. Robot Avatar Maker",
+  "short_name": "Avatar Maker",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0a659e",
+  "theme_color": "#0a659e",
+  "description": "Avatar Maker for the Robot In K.O.L.M.",
+  "icons": [
+    {
+      "src": "./avatar.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

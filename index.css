@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+#avatar-maker {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
